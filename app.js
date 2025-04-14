@@ -1,3 +1,6 @@
+//FROM March 4th, 2025 MATT HUNTINGTON CLASS --FIRST TIME CREATING DOM EVENTS
+//from second week at GA in Matt Huntington's Class
+
 /*-------------------------------- Constants --------------------------------*/
 
 /*-------------------------------- Variables --------------------------------*/
