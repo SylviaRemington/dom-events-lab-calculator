@@ -1,6 +1,10 @@
 //FROM March 4th, 2025 MATT HUNTINGTON CLASS --FIRST TIME CREATING DOM EVENTS
 //from second week at GA in Matt Huntington's Class
-// <!-- RE-REVIEWED 4/27/25 -->
+
+// 4/27/25 -- reviewing old repos
+
+// 5/14/25 -- In Matt's Class, this was the first time I was exposed 
+// to this and totally didn't understand... I only got as far as querySelectors.
 
 
 /*-------------------------------- Constants --------------------------------*/
