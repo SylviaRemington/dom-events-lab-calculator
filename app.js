@@ -3,8 +3,8 @@
 
 // 4/27/25 -- reviewing old repos
 
-// 5/14/25 -- In Matt's Class, this was the first time I was exposed 
-// to this and totally didn't understand... I only got as far as querySelectors.
+// 5/14/25 -- In Matt's Class, this was the first time I was exposed to this 
+// and totally didn't understand... I only got as far as querySelectors.
 
 
 /*-------------------------------- Constants --------------------------------*/
